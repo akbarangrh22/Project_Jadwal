@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvNama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Nama"/>
+
+    <TextView
+        android:id="@+id/tvPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Password"/>
+
+    <TextView
+        android:id="@+id/WaktuSholat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WaktuSholat"/>
+
+    <TextView
+        android:id="@+id/tvRShubuh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subuh"/>
+
+    <TextView
+        android:id="@+id/tvRDzuhur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dzuhur"/>
+
+    <TextView
+        android:id="@+id/tvRAshar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ashar"/>
+
+    <TextView
+        android:id="@+id/tvRMagrib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maghrib"/>
+
+    <TextView
+        android:id="@+id/tvRIsya"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Isya"/>
+
+</LinearLayout>
+

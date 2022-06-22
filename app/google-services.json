@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869271851591",
+    "project_id": "project-jadwal",
+    "storage_bucket": "project-jadwal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869271851591:android:b3d047188cf274ca1ad762",
+        "android_client_info": {
+          "package_name": "com.example.project_jadwal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869271851591-3qchvovkkjmb6c84cu26lvlp9l77qk0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA0rT2lBAoq_9QcEJ3chEnAhu_TkDbits"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869271851591-3qchvovkkjmb6c84cu26lvlp9l77qk0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

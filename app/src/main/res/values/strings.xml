@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Project_Jadwal</string>
+    <string name="Judul">Welcome In Waktu Sholat</string>
+    <string name="Name">Masukkan Nama</string>
+    <string name="Password">Masukkan Password</string>
+    <string name="bSignIn">Sign-In</string>
+    <string name="jnama">Nama</string>
+    <string name="jpass">Password</string>
+    <string name="tLogin">Login</string>
+    <string name="Register">Register</string>
+    <string name="judultask">Jadwal Sholat</string>
+    <string name="taskinsert">Masukkan Nama</string>
+    <string name="juduljenistask">Email</string>
+    <string name="jenistask">Masukkan Email</string>
+    <string name="timetask">Password</string>
+    <string name="lamatask">Masukkan Password</string>
+    <string name="welcomepeople">Selamat Datang di Aplikasi Waktu Sholat</string>
+    <string name="succesinsert">Berhasil</string>
+    <string name="succestask">Ini Waktu Sholat Saya</string>
+    <string name="succesjenis">Ini Email</string>
+    <string name="succestime">Ini Waktu Sholat Saya</string>
+    <string name="pleaseinsert">Task Harus Diisi!</string>
+    <string name="submit">Submit</string>
+    <string name="logout">LogOut</string>
+    <string name="sregister">Register</string>
+    <string name="inputnama">Masukkan Nama</string>
+    <string name="inputpassword">Masukkan Password</string>
+    <string name="semail">Email</string>
+    <string name="srepass">Password</string>
+    <string name="srpass">Re-Password</string>
+    <string name="inputmail">Masukkan Email</string>
+    <string name="newtodo">New User</string>
+    <string name="thisname">username</string>
+    <string-array name="namakota">
+        <item>Yogyakarta</item>
+        <item>Bangka Belitung</item>
+        <item>Semarang</item>
+        <item>Solo</item>
+    </string-array>
+</resources>
